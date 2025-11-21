@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Venom Symbiosis - Заработок на ИИ</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">VENOM SYMBIOSIS</div>
+            <nav>
+                <a href="#about">О проекте</a>
+                <a href="#cases">Кейсы</a>
+                <a href="#contact">Контакты</a>
+            </nav>
+            <button class="cta-btn">Начать</button>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h1>Заработок на ИИ</h1>
+            <p>Преврати нейросети в источник дохода</p>
+            <button class="cta-btn">Присоединиться</button>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
